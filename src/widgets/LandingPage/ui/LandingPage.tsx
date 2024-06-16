@@ -1,10 +1,12 @@
+// Shared -> UI
 import { Spotlight } from '@/shared/ui/Spotlight'
 import { TextGenerateEffect } from '@/shared/ui/TextGenerateEffect'
-import { Button } from '@/shared/ui/button'
+import { Button } from '@/shared/ui/Button'
 
-export const NavHeader = () => {
+
+export const LandingPage = () => {
 	return (
-		<div className='pb-20 pt-36'>
+		<div className='pb-20 pt-36 h-[100vh]'>
 			<div>
 				<Spotlight className="left-80 top-44 h-[80vh] " fill="blue" />
 				
