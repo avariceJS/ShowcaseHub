@@ -1,5 +1,5 @@
 ## ShowcaseHub
-
+Welcome to my portfolio website! Here, you'll find a collection of my projects, showcasing my skills in web development, design, and programming
 image
 ![image](image)
 
