@@ -1,7 +1,7 @@
-import pudge from '@/public/image/pudge.jpg'
-import ts from '@/public/icons/ts.png'
-import react from '@/public/icons/react.png'
-import tailwindcss from '@/public/icons/tailwindcss.png'
+import pudge from '/public/image/pudge.jpg'
+import ts from '/public/icons/ts.png'
+import react from '/public/icons/react.png'
+import tailwindcss from '/public/icons/tailwindcss.png'
 
 export const projects = [
 	{

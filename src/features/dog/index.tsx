@@ -3,11 +3,11 @@ import { Canvas } from "@react-three/fiber";
 import { OrbitControls, useGLTF } from "@react-three/drei";
 
 type ModelProps = {
-  path: string; // путь к модели .glb
+  path: string;
 };
 
 const Model = ({ path }: ModelProps) => {
-  const { scene } = useGLTF(path); // Загружаем модель с помощью useGLTF
+  const { scene } = useGLTF(path);
   return <primitive object={scene} scale={1} />;
 };
 

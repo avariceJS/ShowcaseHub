@@ -1,7 +1,7 @@
 // Shared -> UI
 import { Spotlight } from '@/shared/ui/Spotlight'
 import { TextGenerateEffect } from '@/shared/ui/TextGenerateEffect'
-import { Button } from '@/shared/ui/Button'
+import { Button } from '@/shared/ui/button'
 
 
 export const LandingPage = () => {
